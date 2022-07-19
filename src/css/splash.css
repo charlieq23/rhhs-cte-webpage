@@ -4,19 +4,19 @@
   background-image: url("../images/career&tech.png"); ;
   background-size: cover;
   background-position: center;
-  border-bottom: 3px
+  border-bottom: 4px
 }
 
 .Splash .text {
-	color: white;
+	color: rgb(255, 255, 255);
 	font-weight: 600;
 }
 
 .Splash .primary {
-	font-size: 4rem;
+	font-size: 5rem;
 	padding-top: 12vh;
 }
 
 .Splash .secondary {
-	font-size: 2rem;
+	font-size: 3rem;
 } 
